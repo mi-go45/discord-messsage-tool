@@ -1,7 +1,0 @@
-<widgetbot
-    server="ここにサーバID"
-    channel="ここにチャンネルID"
-    width="800（お好みで変更）"
-    height="600（お好みで変更）"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
